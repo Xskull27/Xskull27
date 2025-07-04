@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align = "center"> Hi there <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="50">, I am Priyanshu Mishra </h1>
-<h3 align = "center"> I am pursuing Bachelor of Technology in Computer Science and Engineering from Indian Institute of information Technology, Kota! </h3>
+<h3 align = "center"> I am pursuing Bachelor of Technology in Electronics and Communication Engineering from Indian Institute of information Technology, Kota! </h3>
 
 ---
 <h2 align="center">Languages</h2>
